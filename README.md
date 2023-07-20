@@ -13,7 +13,7 @@ When I'm not diving deep into the world of AI and technology, you can find me in
 - ⚽ Football: I've been playing football since I was five years old. Nothing beats the high of stepping onto the field!
 - 🎾 Tennis: I picked up a racket recently. I'm still a newbie, but I love the sport.
 
-## Connect with Me
+#### Connect with Me
 
 I'm always interested in collaborating on new projects, discussing AI research, or just chatting about football and tennis! Feel free to reach out to me through the following channels:
 
