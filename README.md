@@ -1,22 +1,28 @@
 ### Hey there, I'm Patrick! 👋
 
-I'm passionate about Artificial Intelligence, with a specific focus on Deep Learning, Computer Vision, and Robotics. I recently completed my Master's in Computing with a specialization in Artificial Intelligence from the National University of Singapore. I'm ready for my next adventure and am currently seeking a full-time job.
+I'm an AI engineer with a passion for Deep Learning, Computer Vision, and Robotics. I hold a Master’s in Computing (AI specialization) from the National University of Singapore and currently work in autonomous driving perception and robotic systems.
 
-#### My interests include:
+#### What I Do
 
-- 🧠 Deep Learning: I love exploring the limitless possibilities of deep learning algorithms and their applications in various domains.
-- 👀 Computer Vision: The ability to teach machines to perceive the world through visual data fascinates me, and I enjoy working on computer vision projects.
-- 🤖 Robotics: The prospect of building intelligent machines that can interact with the physical world is something that continuously drives my curiosity and motivation.
+- 🧠 **Deep Learning:** Designing and training models for perception, object detection, and scene understanding.
+- 👀 **Computer Vision:** Building systems that help machines make sense of the world, from 2D/3D object detection to large-scale dataset creation.
+- 🤖 **Robotics:** Applying AI to create intelligent, autonomous agents that interact with complex real-world environments.
 
-When I'm not diving deep into the world of AI and technology, you can find me indulging in my other passions:
+#### What I’m Interested In
 
-- ⚽ Football: I've been playing football since I was five years old. Nothing beats the high of stepping onto the field!
-- 🎾 Tennis: I picked up a racket recently. I'm still a newbie, but I love the sport.
+- Autonomous driving and intelligent robot systems
+- Multi-modal computer vision, perception, and fusion (LiDAR, camera, radar)
+- Dataset creation and automated annotation
+  
+---
 
-#### Connect with Me
+When I’m not working on AI projects, you’ll find me on the football pitch (I’ve played since I was five!) or on the tennis court (forever working on that backhand).
 
-I'm always interested in collaborating on new projects, discussing AI research, or just chatting about football and tennis! Feel free to reach out to me through the following channels:
+#### Let’s Connect
+
+I’m always open to discussing collaboration, sharing ideas, or just talking about AI, football, or tennis. Feel free to reach out!
 
 - GitHub: [patrickeala](https://github.com/patrickeala)
 - LinkedIn: [Patrick Eala](https://www.linkedin.com/in/patrickeala/)
 - Email: [patrick@eala.asia](mailto:patrick@eala.asia)
+
